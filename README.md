@@ -1,8 +1,7 @@
 # RITUAL
 FIRST PROJECT
 
-sudo apt update && sudo apt upgrade -y
-sudo apt -qy install curl git jq lz4 build-essential screen
+sudo apt update && sudo apt upgrade -y	sudo apt -qy install curl git jq lz4 build-essential screen
 sudo apt install docker.io
 sudo apt-get remove docker docker-engine docker.io containerd runc
 sudo apt-get update
